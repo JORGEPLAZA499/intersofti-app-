@@ -1,0 +1,31 @@
+# INTERSOFTI
+
+> Technology solutions for connectivity, AI edge computing, secure mobile devices, and digital payments.
+
+INTERSOFTI builds and distributes products that help people and businesses stay connected and secure. The site offers prepaid international eSIM data plans, the IronWatch AI Box edge-computing device, the Ghostcode S10 privacy-focused smartphone, a crypto-backed Visa card, and supporting services such as order tracking, eSIM status checks, and activation help.
+
+## Pages
+
+- [Home](/): INTERSOFTI landing page with product highlights and company overview.
+- [eSIM Store](/eSIM): Browse and buy prepaid international eSIM data plans by region or country.
+- [eSIM Status](/esim-status): Check balance, usage, and recharge an existing eSIM by ICCID.
+- [IronWatch AI Box](/box_ai): Edge AI hardware powered by Rockchip RK3588 with technical specifications.
+- [AI Solutions](/box_ai/solutions): Sector-specific intelligent solutions for industry, retail, security, healthcare, and more.
+- [Ghostcode S10](/ghostcode-s10): Secure smartphone focused on privacy and encrypted communications.
+- [Ghostcode Messenger](/ghostcode-s10/messenger): Encrypted messaging service for the Ghostcode S10 ecosystem.
+- [Ghostcode Token](/ghostcode-s10/token): Token and access details for the Ghostcode platform.
+- [Ghostcode S10 Product](/ghostcode-s10-product): Product details and purchase options for the Ghostcode S10.
+- [Crypto Visa Card](/crypto-card-firswe-visa): Crypto-to-fiat Visa card information and application.
+- [Activation](/activation): Device and service activation instructions.
+- [Order Tracking](/order-tracking): Track physical and eSIM orders by order number.
+- [Help Center](/help): Support articles and frequently asked questions.
+- [Contact](/contact): Contact form and company information.
+- [Blog](/blog/1): Articles and updates from INTERSOFTI.
+- [Privacy Policy](/privacy): Data handling and privacy practices.
+- [Terms of Service](/terms): Terms and conditions for using the site and services.
+- [Checkout Return](/checkout/return): Post-payment confirmation and order summary page.
+- [Unsubscribe](/unsubscribe): Email preference and unsubscribe management.
+
+## Optional
+
+- [Sitemap](/sitemap.xml): Machine-readable list of public URLs for search engines and crawlers.

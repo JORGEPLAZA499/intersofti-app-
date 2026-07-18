@@ -1,0 +1,1 @@
+ALTER TABLE public.promo_tokens ADD COLUMN IF NOT EXISTS first_used_at TIMESTAMPTZ;
